@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Pro Calculator"
+rootProject.name = "حاسبة ابو علاوي"
 
 include(":app")

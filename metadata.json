@@ -1,5 +1,5 @@
 {
-  "name": "Pro Calculator",
+  "name": "حاسبة ابو علاوي",
   "description": "A comprehensive, high-precision basic, scientific, unit converter, financial, and math calculations app with full Arabic and English support.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

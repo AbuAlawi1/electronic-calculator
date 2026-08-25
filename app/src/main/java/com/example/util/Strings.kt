@@ -9,7 +9,7 @@ object AppStrings {
     }
 
     private val ARABIC_STRINGS = mapOf(
-        "app_title" to "Pro Calculator",
+        "app_title" to "حاسبة ابو علاوي",
         "calculator" to "الحاسبة",
         "basic" to "أساسية",
         "scientific" to "علمية",
@@ -199,11 +199,11 @@ object AppStrings {
         "language_choice" to "اللغة / Language",
         "reset_settings" to "إعادة ضبط الإعدادات الافتراضية",
         "reset_confirm" to "هل تريد إعادة تعيين جميع الإعدادات إلى الوضع الافتراضي؟",
-        "version_info" to "Pro Calculator v1.0 • حاسبة احترافية متكاملة"
+        "version_info" to "حاسبة ابو علاوي v1.0 • حاسبة احترافية متكاملة"
     )
 
     private val ENGLISH_STRINGS = mapOf(
-        "app_title" to "Pro Calculator",
+        "app_title" to "حاسبة ابو علاوي",
         "calculator" to "Calculator",
         "basic" to "Basic",
         "scientific" to "Scientific",
@@ -393,6 +393,6 @@ object AppStrings {
         "language_choice" to "Language / اللغة",
         "reset_settings" to "Reset to Defaults",
         "reset_confirm" to "Reset all settings to default values?",
-        "version_info" to "Pro Calculator v1.0 • Professional All-in-One Calculator"
+        "version_info" to "حاسبة ابو علاوي v1.0 • Professional All-in-One Calculator"
     )
 }
